@@ -9,7 +9,7 @@
 
 <ol>
 <li><a href="curses.html">Curses Notes</a>
-<li><a href="parks.html">Parks &quot; Recreation Notes</a>
+<li><a href="parks.html">Parks &amp; Recreation Notes</a>
 <li><a href="intersect.php">Intersection Game</a>
 </ol>
 
