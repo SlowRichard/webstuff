@@ -1,0 +1,21 @@
+body {
+	background-color: rgb(230, 238, 248);
+}
+
+#intersect {
+	border: 2px solid black;
+	background-color: black;
+	width: 600px;
+	height: 600px;
+	cursor: crosshair;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+.scores {
+	font-family: 'Comfortaa', cursive;
+	text-align: center;
+}
