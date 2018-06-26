@@ -1,14 +1,13 @@
-#Curses Adventure Notes
+# Curses Adventure Notes
 
-##Family members
+## Family members
 
 Some of them appear in the second volume of the dictionary.
 
-Peter::
+### Peter
 	Modestly, the author (died 1940 or so?) missed himself out.
 
-##Unused items
+## Unused items
 
-Jewellery box::
+### Jewellery box
 	Initials A. M.
-
