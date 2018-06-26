@@ -13,6 +13,8 @@
 <li><a href="intersect.php">Intersection Game</a>
 </ol>
 
+testing
+
 <table>
 <?php for($i = 1; $i <= 10; $i += 1) {?>
 <tr><td><?= $i?></td></tr>
