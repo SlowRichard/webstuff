@@ -13,3 +13,4 @@ Modestly, the author (died 1940 or so?) missed himself out.
 Initials A. M.
 
 [Home](index.php)
+<link rel="stylesheet" href="basic.css">
