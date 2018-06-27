@@ -4,5 +4,5 @@ body {
 
 h1 {
 	background: rgb(187, 0, 0);
-	foreground: rgb(255, 255, 255)
+	text-decoration-color: rgb(255, 255, 255)
 }
