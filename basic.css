@@ -1,8 +1,8 @@
 body {
-	background: rgb(255,240,230);
+	background: rgb(255, 255, 255);
 }
 
 h1 {
-	background: rgb(255, 230, 230);
-	border: 1pt solid black;
+	background: rgb(187, 0, 0);
+	foreground: rgb(255, 255, 255)
 }
