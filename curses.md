@@ -6,9 +6,8 @@
 
 Some of them appear in the second volume of the dictionary.
 
-|Name|Notes|
-|-----|----------------------------------------------------------|
-|Peter|Modestly, the author (died 1940 or so?) missed himself out|
+__Peter__   
+>Modestly, the author (died 1940 or so?) missed himself out
 
 
 ## Unused items
