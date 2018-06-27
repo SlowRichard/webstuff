@@ -3,6 +3,9 @@ body {
 }
 
 h1 {
-	background: rgb(187, 0, 0);
-	text-decoration-color: rgb(255, 255, 255)
+	border-bottom: thin;
+}
+
+h2 {
+	text-decoration-color: indianred;
 }
