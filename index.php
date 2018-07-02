@@ -19,6 +19,7 @@
 	<li><a href="php_info.php">PHP Info</a>
 	<li><a href="php_test2.php">Test 2</a>
 	<li><a href="php_formtest.html">Form test</a>
+	<li><a href="php_looptests.php">Loop tests</a>
 </ul>
 
 <table>
