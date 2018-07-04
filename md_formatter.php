@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -6,9 +6,32 @@
     <title>Page Title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="basic.css" />
-    <script src="libs/markdown-it.js"></script>
+    <script src="markdown-it.js"></script>
+    <script>
+        function init_md() {
+            var md = window.markdownit();
+
+            var md_doc = '<?php echo $_REQUEST['doc'] . '.md' ?>';
+console.log("start")
+            if (md_doc != '.md') {
+                var request = new XMLHttpRequest();
+
+                request.onreadystatechange = function() {
+                    if (this.readyState == this.DONE) {
+                        var mn_div = document.getElementById('mn');
+                        mn_div.innerHTML = md.render(this.responseText);
+                        console.log("Done");
+                    }
+                }
+                request.open('GET', md_doc, true);
+                request.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+                request.send(null);
+            }
+        }
+    </script>
 </head>
-<body>
-    
+<body onload="init_md()">
+    <div id="mn"></div>
+    <a href="index.php">Back</a>
 </body>
 </html>

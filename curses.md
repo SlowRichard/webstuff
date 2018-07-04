@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="basic.css">
-
 # Curses Adventure Notes
 
 ## Family members
@@ -14,5 +12,3 @@ __Peter__
 
 **Jewellery box**
 Initials A. M.
-
-[Home](index.php)
