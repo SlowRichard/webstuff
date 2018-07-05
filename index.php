@@ -8,10 +8,11 @@
 <h1>Links to Notes</h1>
 
 <ol>
-<li><a href="md_formatter.php?doc=curses">Curses Notes</a>
-<li><a href="md_formatter.php?doc=parks">Parks &amp; Recreation Notes</a>
-<li><a href="md_formatter.php?doc=book">Other notes</a>
+<li><a href="mdf.php?doc=curses">Curses Notes</a>
+<li><a href="mdf.php?doc=parks">Parks &amp; Recreation Notes</a>
+<li><a href="mdf.php?doc=book">Other notes</a>
 <li><a href="intersect.php">Intersection Game</a>
+<li><a href="mdf.php?doc=birds">Bird Log</a>
 </ol>
 
 <h1>PHP tests</h1>

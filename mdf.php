@@ -11,8 +11,11 @@
         function init_md() {
             var md = window.markdownit();
 
-            var md_doc = '<?php echo $_REQUEST['doc'] . '.md' ?>';
-console.log("start")
+
+
+            var md_doc = '<?php echo $_REQUEST['doc'] . '.md' ?>' +
+                '?' + Math.floor(Math.random()*1e10);
+
             if (md_doc != '.md') {
                 var request = new XMLHttpRequest();
 
@@ -20,7 +23,6 @@ console.log("start")
                     if (this.readyState == this.DONE) {
                         var mn_div = document.getElementById('mn');
                         mn_div.innerHTML = md.render(this.responseText);
-                        console.log("Done");
                     }
                 }
                 request.open('GET', md_doc, true);
