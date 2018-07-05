@@ -11,8 +11,6 @@
         function init_md() {
             var md = window.markdownit();
 
-
-
             var md_doc = '<?php echo $_REQUEST['doc'] . '.md' ?>' +
                 '?' + Math.floor(Math.random()*1e10);
 
@@ -22,7 +20,16 @@
                 request.onreadystatechange = function() {
                     if (this.readyState == this.DONE) {
                         var mn_div = document.getElementById('mn');
-                        mn_div.innerHTML = md.render(this.responseText);
+                        
+                        var mdtext = md.render(this.responseText);
+                        mn_div.innerHTML = mdtext;
+
+                        if (mdtext.search('<h1>') >= 0) {
+                            var tstart = mdtext.search('<h1>') + 4;
+                            var tend = mdtext.search('</h1>');
+                            
+                            document.title = mdtext.substring(tstart, tend);
+                        }
                     }
                 }
                 request.open('GET', md_doc, true);
