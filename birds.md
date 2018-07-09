@@ -11,11 +11,15 @@ To be replaced with something more practical.
 
 - 4 goldfinches flying past window at work.
 
-## 2018-07-07 (Gartmore)
+## 2018-07-07
+
+### Port of Menteith
 
  - Lots of blue damselflies around reeds at edge of lawn at the Lake Hotel (trying out for Izzy's wedding catering.)
 
-## 2018-07-08 (Gartmore)
+## 2018-07-08
+
+### Gartmore
 
  - Swifts and martins flying over the garden, martins in nest above mailbox gazing out waiting to be fed. Must be close to fledging.
  - Couple of damselflies down estate near the swan pond, sound of crickets but none seen.

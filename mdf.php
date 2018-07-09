@@ -8,10 +8,11 @@
     <link rel="stylesheet" type="text/css" media="screen" href="basic.css" />
     <script src="markdown-it.js"></script>
     <script>
-        function init_md() {
+        function init_md()
+        {
             var md = window.markdownit();
 
-            var md_doc = '<?php echo $_REQUEST['doc'] . '.md' ?>' +
+            var md_doc = '<?= $_REQUEST['doc'] . '.md' ?>' +
                 '?' + Math.floor(Math.random()*1e10);
 
             if (md_doc != '.md') {
@@ -40,7 +41,7 @@
     </script>
 </head>
 <body onload="init_md()">
-    <div id="mn"></div>
+    <div class="column" id="mn"></div>
     <a href="index.php">Back</a>
 </body>
 </html>

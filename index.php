@@ -8,11 +8,16 @@
 <h1>Links to Notes</h1>
 
 <ol>
-<li><a href="mdf.php?doc=curses">Curses Notes</a>
-<li><a href="mdf.php?doc=parks">Parks &amp; Recreation Notes</a>
-<li><a href="mdf.php?doc=book">Other notes</a>
-<li><a href="intersect.php">Intersection Game</a>
-<li><a href="mdf.php?doc=birds">Bird Log</a>
+	<li><a href="mdf.php?doc=birds">Bird Log</a>
+	<li><a href="mdf.php?doc=curses">Curses Notes</a>
+	<li><a href="mdf.php?doc=parks">Parks &amp; Recreation Notes</a>
+	<li><a href="mdf.php?doc=book">Other notes</a>
+</ol>
+
+<h1>Games</h1>
+
+<ol>
+	<li><a href="intersect.php">Intersection Game</a>
 </ol>
 
 <h1>PHP tests</h1>
@@ -25,9 +30,9 @@
 </ul>
 
 <table>
-<?php for($i = 1; $i <= 10; $i += 1) {?>
-<tr><td><?= $i?></td></tr>
-<?php } ?>
+<tr><?php for($i = 1; $i <= 5; $i += 1) {?>
+<td><?= $i?></td>
+<?php } ?></tr>
 </table>
 </body>
 </html>

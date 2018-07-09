@@ -4,9 +4,20 @@ html {
 }
 
 h1 {
-	border-bottom: 1px solid;
+	border-bottom: 2px solid maroon;
 }
 
 h2 {
-	text-decoration-color: indianred;
+	color: maroon;
+}
+
+h3 {
+	color: rgb(64, 0, 0);
+}
+
+div.column {
+	max-width: 50em;
+	background-color: white;
+	border: solid black;
+	padding: 5px;
 }
