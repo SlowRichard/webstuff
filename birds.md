@@ -35,7 +35,7 @@ To be replaced with something more practical.
 
 ### At work (220 High Street)
 
- - Possible bird of prey? Largish brown bird flying over trees beyond car park, didn't come close enough to see clearly.
+ - Possible bird of prey? Largish brown bird flying over trees beyond car park, didn't come close enough to see clearly. Hazel and I both saw one (grey and brown on upper wing) a few weeks ago, couldn't identify.
 
 ### Evening commute
 
