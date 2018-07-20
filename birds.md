@@ -21,22 +21,46 @@ To be replaced with something more practical.
 
 ### Gartmore
 
- - Swifts and martins flying over the garden, martins in nest above mailbox gazing out waiting to be fed. Must be close to fledging.
- - Couple of damselflies down estate near the swan pond, sound of crickets but none seen.
+- Swifts and martins flying over the garden, martins in nest above mailbox gazing out waiting to be fed. Must be close to fledging.
+- Couple of damselflies down estate near the swan pond, sound of crickets but none seen.
 
 ## 2018-07-09
 
 ### Morning commute
 
- - Heron on log over weir, preening.
- - Dead hedgehog on Kelvin path, past the footbridge. Never seen any hedgehogs in Glasgow before.
- - Young fox on opposite bank, near outlet pipe.
- - Mallard and 5 (quite grown up) young, dabbling on river.
+- Heron on log over weir, preening.
+- Dead hedgehog on Kelvin path, past the footbridge. Never seen any hedgehogs in Glasgow before.
+- Young fox on opposite bank, near outlet pipe.
+- Mallard and 5 (quite grown up) young, dabbling on river.
 
 ### At work (220 High Street)
 
- - Possible bird of prey? Largish brown bird flying over trees beyond car park, didn't come close enough to see clearly. Hazel and I both saw one (grey and brown on upper wing) a few weeks ago, couldn't identify.
+- Possible bird of prey? Largish brown bird flying over trees beyond car park, didn't come close enough to see clearly. Hazel and I both saw one (grey and brown on upper wing) a few weeks ago, couldn't identify.
 
 ### Evening commute
 
- - Goosander and 4 almost fully grown young, basking in sun on gravelly island under Kelvinbridge.
+- Goosander and 4 almost fully grown young, basking in sun on gravelly island under Kelvinbridge.
+
+## 2018-07-10
+
+### Evening commute
+
+- Mallard and 5 (I think) almost fully grown young dabbling at the rapids just before Kelvinbridge.
+
+## 2018-07-11
+
+### Evening commute
+
+- Goosander and young again, on gravelly island, this time it's overcast.
+- AM and PM there was some squealing sounds in the tunnel under Kelvinbridge, nest behind the netting?
+
+## 2018-07-16
+
+- Rainy day, walking in the estate, lots of tiny frogs on the road hopping out of the way
+  - Honey had a look but not that interested.
+- Looking through binoculars at the Swan Pond saw a fish jumping from the water. Small silvery thing that jumped clear of the water by about its own length.
+
+## 2018-07-20
+
+- Waiting for train connection in Edinburgh, douple of (herring?) gulls at park by Princes St station. Guy next to me dropped a bit of banana, gull looked pretty timid approaching, darted at bananan once close, then ran away.
+- Also heard goldfinches, saw a wagtail on the lawn.
