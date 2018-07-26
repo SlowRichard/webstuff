@@ -64,3 +64,17 @@ To be replaced with something more practical.
 
 - Waiting for train connection in Edinburgh, douple of (herring?) gulls at park by Princes St station. Guy next to me dropped a bit of banana, gull looked pretty timid approaching, darted at bananan once close, then ran away.
 - Also heard goldfinches, saw a wagtail on the lawn.
+
+## 2018-07-21
+
+- Lots of red kites around Watermead and Marlow, almost guaranteed to see some in the sky.
+- Wood pigeons seem huge here.
+
+## 2018-07-22
+
+- Watched a collared dove bringing twigs to the tree in Allan's driveway, looks like it's building a nest?
+- A couple of kites seen over the motorway, somewhere between Leeds and York.
+
+## 2018-07-26
+
+- Saw a colouful butterfly, possibly tortoiseshell, flying near the flats in Hotspur Street. Didn't settle so couldn't tell exactly what it was. I'm sure there are a lot more butterflies around this year - last year I pretty much only saw orange tips in Glasgow.
