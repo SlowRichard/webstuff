@@ -8,6 +8,8 @@ body {
 	width: 600px;
 	height: 600px;
 	cursor: crosshair;
+	display: block;
+	margin: auto;
 }
 
 h1 {

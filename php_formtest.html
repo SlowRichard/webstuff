@@ -5,9 +5,16 @@
     </head>
     <body>
         <form action="php_formprocess.php">
-            <p>Name: <input name="id"></p>
+            <p>Name: <input name="id" list="nameslist"></p>
             <p>And: <input name="brum"></p>
+            <p>Frum: <select name="frum"</p>
             <input type="submit" value="Submit"> 
         </form>
     </body>
 </html>
+
+<datalist id="nameslist">
+    <option value="Richard Hunt" />
+    <option value="Brian Sutherland" />
+    <option value="Rachel Hunt" />
+</datalist>

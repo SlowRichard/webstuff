@@ -3,6 +3,11 @@ html {
 	font-family: sans-serif;
 }
 
+p::selection {
+	background-color: red;
+	color: palegoldenrod;
+}
+
 h1 {
 	border-bottom: 2px solid maroon;
 }
@@ -11,12 +16,18 @@ h2 {
 	color: maroon;
 }
 
+h2:hover {
+	background-color: palegoldenrod;
+}
+
 h3 {
 	color: rgb(64, 0, 0);
 }
 
 div.column {
 	max-width: 50em;
+	max-height: 92vh;
+	overflow-y: auto;
 	background-color: white;
 	border: solid black;
 	padding: 5px;

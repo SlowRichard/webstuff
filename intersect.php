@@ -5,9 +5,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Comfortaa|Shadows+Into+Light" rel="stylesheet">
 	<link href="intersect.css" rel="stylesheet">
 
-	<script src="intersect.js" />
-	<script>
-	</script>
+	<script src="intersect.js"></script>
 </head>
 <body onload="init()">
 	<h1>Intersection Game</h1>
