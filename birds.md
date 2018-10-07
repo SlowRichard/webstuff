@@ -81,4 +81,9 @@ To be replaced with something more practical.
 
 ## 2018-08-06 to 10
 
-- 
+...
+
+## 2018/09/02
+
+- Plenty of Starlings about at the moment, going after Rowan berries.
+
