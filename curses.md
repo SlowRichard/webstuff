@@ -5,7 +5,7 @@
 
 __Peter Meldew__
 - Wrote the book
-- died 1940 or so
+  - died 1940 or so
 
 __A. M.__
 - A graceful lady's box, bearing the initials A. M. and engraved with a drawing of what seems to be a rabbit's foot
