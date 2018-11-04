@@ -94,5 +94,5 @@ To be replaced with something more practical.
 ## 2018-11-04
 
 - Out walking in the park by the Kelvin, saw three dippers at once. Two were close to either other on near bank, other was directly across on opposite bank.
--- River was quite high - maybe they couldn't find many good spots?
+ - River was quite high - maybe they couldn't find many good spots?
 - Later, crossing the bridge on Queen Margaret Drive, heard a noise and looked down - a kingfisher flying along the river, first sighting since last winter I think.
