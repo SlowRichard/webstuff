@@ -12,6 +12,7 @@
         {
             var md = window.markdownit();
 
+	    // Create request - along with dummy number to bypass cache.
             var md_doc = '<?= $_REQUEST['doc'] . '.md' ?>' +
                 '?' + Math.floor(Math.random()*1e10);
 
@@ -25,6 +26,8 @@
                         var mdtext = md.render(this.responseText);
                         mn_div.innerHTML = mdtext;
 
+			// Set the title of the web page based on the first heading in the
+			// document.
                         if (mdtext.search('<h1>') >= 0) {
                             var tstart = mdtext.search('<h1>') + 4;
                             var tend = mdtext.search('</h1>');
