@@ -77,7 +77,8 @@ To be replaced with something more practical.
 
 ## 2018-07-26
 
-- Saw a colouful butterfly, possibly tortoiseshell, flying near the flats in Hotspur Street. Didn't settle so couldn't tell exactly what it was. I'm sure there are a lot more butterflies around this year - last year I pretty much only saw orange tips in Glasgow.
+- Saw a colouful butterfly, possibly tortoiseshell, flying near the flats in Hotspur Street. Didn't settle so couldn't tell exactly what it was. I'm sure there are a lot more butterflies around this year
+  - last year I pretty much only saw orange tips in Glasgow.
 
 ## 2018-08-06 to 10
 
