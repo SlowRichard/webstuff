@@ -87,3 +87,12 @@ To be replaced with something more practical.
 
 - Plenty of Starlings about at the moment, going after Rowan berries.
 
+## 2018-10-29
+
+- Dead bird outside work, thought it might be a jack snipe, but Kristian identified as a woodcock, size and horizontal stripes on back of head instead of vertical. Probably on migration, either ran out of food, hunted or road accident.
+
+## 2018-11-04
+
+- Out walking in the park by the Kelvin, saw three dippers at once. Two were close to either other on near bank, other was directly across on opposite bank.
+-- River was quite high - maybe they couldn't find many good spots?
+- Later, crossing the bridge on Queen Margaret Drive, heard a noise and looked down - a kingfisher flying along the river, first sighting since last winter I think.
